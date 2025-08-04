@@ -1,4 +1,4 @@
-package Estrutura_Sequencial;     // Define o pacote onde o arquivo está localizado
+package URI_Estrutura_De_Dados_Secao03;     // Define o pacote onde o arquivo está localizado
 
 import java.util.Locale;       // Importa a classe Locale para configurar o formato de números (como ponto decimal)
 import java.util.Scanner;      // Importa a classe Scanner para ler dados digitados pelo usuário
@@ -13,7 +13,7 @@ public class ExercicioResolvidoEstruturaDeDados01 {
 		
 		// Lê três valores digitados pelo usuário e armazena nas variáveis
 		double largura = sc.nextDouble();           // Lê a largura do terreno
-		double comprimento = sc.nextDouble()        // Lê o comprimento do terreno
+		double comprimento = sc.nextDouble();        // Lê o comprimento do terreno
 		double metroQuadrado = sc.nextDouble();     // Lê o valor do metro quadrado
 
 		// Calcula a área do terreno (largura x comprimento)
