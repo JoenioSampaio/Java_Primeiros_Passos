@@ -5,7 +5,7 @@ package Estrutura_Repetitiva_Secao05;
 import java.util.Scanner;
 
 // Declara a classe principal com o nome do exercício
-public class ExercicioResolvidoUri1113 {
+public class ExercicioResolvido01Uri1113 {
 
     // Método principal: ponto de entrada da aplicação
     public static void main(String[] args) {
